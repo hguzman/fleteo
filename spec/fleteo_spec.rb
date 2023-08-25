@@ -1,4 +1,4 @@
-require 'fleteo'
+require 'gema-fleteo'
 
 RSpec.describe Fleteo do
   describe '#to_binary' do
