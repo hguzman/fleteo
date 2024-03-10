@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'gema-fleteo'
 
 RSpec.describe Fleteo do
