@@ -1,7 +1,9 @@
+require_relative 'dynamodb'
+
 module Fleteo
-  class User
+  class User < Dynamodb
     def mensaje
-      puts "MEnsaje clase USER2"
+      puts "Mensaje clase USER"
     end
   end
 end

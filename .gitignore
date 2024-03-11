@@ -1,5 +1,4 @@
 .idea/*
-*.gem
 coverage/*
 Gemfile.lock
 *~

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'gema-fleteo'
+require 'fleteo'
 
 RSpec.describe Fleteo do
   describe '#to_binary' do
