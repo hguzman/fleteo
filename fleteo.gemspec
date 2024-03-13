@@ -4,6 +4,7 @@ require File.expand_path('version', __dir__)
 
 Gem::Specification.new do |spec|
   spec.name = 'fleteo'
+  spec.homepage = 'https://github.com/hguzman/fleteo/wiki'
   spec.version = Fleteo::VERSION
   spec.required_ruby_version = '>= 3.2.0'
   # spec.add_development_dependency 'rspec', '~> 3.7'
